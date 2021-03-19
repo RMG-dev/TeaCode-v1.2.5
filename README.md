@@ -1,2 +1,2 @@
 # TeaCode-v1.2.5
-Un logiciel de développement web créé en python.
+Le tool est libre d'accès et si vous voulez une version plus récente et plus performante avec les bugs corrigés, contactez moi sur mon discord : RMG#3016.
